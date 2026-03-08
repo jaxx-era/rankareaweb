@@ -1,6 +1,0 @@
-python-dotenv
-openai
-python-telegram-bot
-pyTelegramBotAPI
-requests
-flask 
